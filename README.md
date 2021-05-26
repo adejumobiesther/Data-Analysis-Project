@@ -2,10 +2,17 @@
 Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen to increase. 
 
 # Project Steps
-
+<ul>
+  <li> Automated reading and combining of CSV files from the three major branches through the use of glob </li>
+  <li> Performed exploratory analysis on the data </li>
+  <li> Transformed the date and time into a datetime data type, also engineered new features from the date and time</li>
+  <li> Peformed more analysis on the categorical variables</li>
+  <li>Through the appropriate use of groupby, derived more insights from the data </li>
+  <li> Used different plots to generate more insights from the data</li>
+</ul>
+# Insights
 To-Do - Explain in detail, the project steps and overview of different tasks completed here.
 
-# Insights
 
 To-Do - Explain the insights you were able to uncover from the analysing the datasets.
 
