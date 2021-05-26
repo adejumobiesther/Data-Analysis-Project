@@ -1,8 +1,5 @@
-NB: This is a template to make documentation process easy. You can remove the `To-Do` notes in your final commit
-
-# Project Title Here
-
-To-Do - Write a short project description here.
+# Detailed Analysis of a Supermarket Sales Record - Company XYZ
+Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen to increase. 
 
 # Project Steps
 
