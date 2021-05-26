@@ -1,4 +1,4 @@
-# Detailed Analysis of a Supermarket Sales Record - Company XYZ
+# Detailed Analysis of a Supermarket Sales Record Across the Country - Company XYZ
 Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen to increase. 
 
 # Project Steps
@@ -10,7 +10,10 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
   <li>Through the appropriate use of groupby, derived more insights from the data </li>
   <li> Used different plots to generate more insights from the data</li>
 </ul>
+
 # Insights
+
+
 To-Do - Explain in detail, the project steps and overview of different tasks completed here.
 
 
