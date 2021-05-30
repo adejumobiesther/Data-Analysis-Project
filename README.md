@@ -47,5 +47,6 @@ I was also able to infer that:
   <li>In branch C, they sell the most at night and they sell the least in the morning</li>
 </ul>
 
-# Executive Summary.
-[Executive Summary.docx]
+# Executive Summary
+[Executive Summary.docx](https://github.com/adejumobiesther/Data-Analysis-Project/files/6567045/Executive.Summary.docx)
+
