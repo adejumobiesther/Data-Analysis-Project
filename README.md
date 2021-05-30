@@ -48,6 +48,4 @@ I was also able to infer that:
 </ul>
 
 # Executive Summary.
-
-
-To-Do - Include your Executive Summary document in your repository.
+[Executive Summary.docx]
