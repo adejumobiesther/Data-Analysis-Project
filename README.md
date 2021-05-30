@@ -28,9 +28,9 @@ After analysing the datasets, I was able to discover that:
   <li> The products with the highest unit price are Fashion accessories with Sports and travel, then we have Food and beverages with Home and lifestyle having almost equal unit price, then Health and beauty while Electronic accessories has the lowest unit price.</li>
   <li> The products purchased the most by customers are Electronic accessories with Home and lifestyle, then we have Health and beauty, followed by Sports and travel then Food and beverages, Fashion accessories is the least product purchased by customers.</li>
  </ul>
+ 
 # Future Work
-
-To-Do - Suggest tasks you might include in future work to make this project more robust.
+Build a machine learning model that would be able to predict the product that would generate the most revenue in each of the three branches at a particular point in time in company XYZ.
 
 # Standout Section
 After analysing the sales trend in each of the three branches every fifteen days, I was able to discover that:
@@ -40,6 +40,7 @@ After analysing the sales trend in each of the three branches every fifteen days
   <li> Sales in Branch C continues to decrease until the middle of January, it then increases until the beginning of February, decreases again till the middle of February, after this sales continues to increase.</li>
 </ul>
 I was also able to infer that:
+
 <ul>
   <li> In branch B, they sell more in the morning and afternoon compared to the night </li>
   <li> In branch A,they sell the most in the afternoon, more in the morning and they sell the least at night</li>
@@ -47,5 +48,6 @@ I was also able to infer that:
 </ul>
 
 # Executive Summary.
+
 
 To-Do - Include your Executive Summary document in your repository.
