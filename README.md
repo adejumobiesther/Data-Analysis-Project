@@ -33,11 +33,11 @@ After analysing the datasets, I was able to discover that:
 Build a machine learning model that would be able to predict the product that would generate the most revenue in each of the three branches at a particular point in time in company XYZ.
 
 # Standout Section
-After analysing the sales trend in each of the three branches every fifteen days, I was able to discover that:
+After analysing the sales trend in each of the three branches every fifteen days, I was able to discover that, on Average:
 <ul>
-  <li> Branch B experienced a decrease in sales in the first 15 days of January, then a sudden rise in sales again, until the beginning of February, after this sales continues to drop until the begining of March.Then sales begins to rise slowly again in March.</li>
-  <li> Sales in branch A increases until the middle of January, then it drops until the beginnning of February. After this Sales continues to rise.</li>
-  <li> Sales in Branch C continues to decrease until the middle of January, it then increases until the beginning of February, decreases again till the middle of February, after this sales continues to increase.</li>
+  <li> Branch B experienced a decrease in sales in the first 15 days of January and throughout February but there was a slight increase in sales in March.</li>
+  <li> Branch A had the highest revenue only in the first fifteen days of January.</li>
+  <li> Branch C only experienced a decrease in sales in the first fifteen days of January and February.</li>
 </ul>
 I was also able to infer that:
 
